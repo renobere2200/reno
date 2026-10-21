@@ -8,7 +8,7 @@ form.addEventListener("submit", function (event) {
     event.preventDefault();
 
     // ===== NOMOR WHATSAPP TUJUAN =====
-    const nomorWhatsApp = "6281236701856";
+    const nomorWhatsApp = "6281246121653";
 
     // ===== MENGAMBIL DATA DARI FORM =====
     const nama = document.getElementById("nama").value;
